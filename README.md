@@ -3,11 +3,12 @@
 
 This project analyzes Flipkart mobile phone data to understand brand performance, pricing strategy, discounts, ratings, and customer engagement. An interactive dashboard was created to help visualize key business metrics and identify top-performing brands and mobile models.
 
-🖼️ Dashboard Preview
 
-👉 Dashboard Screenshot:
 
-![Flipkart Dashboard](images/flipkart_dashboard.png)
+## 📊 Dashboard Preview
+
+![Flipkart Dashboard](./images/flipkart_dashboard.png)
+
 
 
 
