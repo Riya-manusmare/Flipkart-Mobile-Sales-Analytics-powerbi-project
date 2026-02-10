@@ -10,7 +10,6 @@ This project analyzes Flipkart mobile phone data to understand brand performance
 ![Flipkart Dashboard](images/flipkart_dashboard.png)
 
 
-📌 Note: Upload the dashboard screenshot inside an images folder in your GitHub repository with the name flipkart_dashboard.png.
 
 🗂️ Dataset Summary
 
