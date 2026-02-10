@@ -1,69 +1,103 @@
-# 📊 Flipkart Mobile Sales Analytics
+📊 Flipkart Mobile Sales Dataset Analysis
+📌 Project Overview
 
-## 📌 Project Overview
+This project analyzes Flipkart mobile phone data to understand brand performance, pricing strategy, discounts, ratings, and customer engagement. An interactive dashboard was created to help visualize key business metrics and identify top-performing brands and mobile models.
 
-This project focuses on the analysis of Flipkart mobile phone data to extract meaningful insights about brand performance, pricing, discounts, ratings, and customer engagement. The goal is to understand market trends and consumer behavior using data-driven techniques.
+🖼️ Dashboard Preview
 
----
+👉 Dashboard Screenshot:
 
-## 🎯 Objective
+![Flipkart Dashboard](images/flipkart_dashboard.png)
 
-* Analyze mobile brands and models available on Flipkart
-* Identify top-performing brands based on sales, ratings, and reviews
-* Study the impact of discounts and price ranges on customer ratings
-* Provide insights through interactive and visual dashboards
 
----
+📌 Note: Upload the dashboard screenshot inside an images folder in your GitHub repository with the name flipkart_dashboard.png.
 
-## 📂 Dataset Description
+🗂️ Dataset Summary
 
-The dataset contains information related to mobile phones listed on Flipkart, including:
+Total Brands: 28
 
-* Brand and mobile model
-* Price range and discounts
-* Total sales
-* Customer ratings and reviews
+Total Mobile Models: 536
 
----
+Total Sales: 10M
 
-## 🛠 Tools & Technologies Used
+Average Rating: 4.28 ⭐
 
-* **Python** – for data cleaning, analysis, and processing
-* **Pandas & NumPy** – for data manipulation and calculations
-* **Matplotlib & Seaborn** – for data visualization
-* **Power BI / Dashboard Tool** – for interactive visual analytics
+Average Number of Ratings: 51.27K
 
----
+Average Number of Reviews: 3.65K
 
-## 📈 Key Analysis Performed
+Average Total Discount: 4.54K
 
-* Total brands and total mobiles analysis
-* Average ratings and reviews across brands
-* Top brands based on ratings, discounts, and number of reviews
-* Top mobile models based on customer engagement
-* Price range comparison and trend analysis
+📊 Dashboard Features
 
----
+The dashboard provides an interactive view using slicers and KPIs:
 
-## 🔍 Insights & Findings
+🔹 Filters / Slicers
 
-* Certain brands dominate the market in terms of ratings and reviews
-* Discount levels significantly influence customer purchasing behavior
-* Mid-range priced mobiles receive higher engagement compared to premium segments
-* High-rated mobiles do not always have the highest discounts
+Brand
 
----
+Mobile Model
 
-## 🚀 Conclusion
+🔹 KPI Cards
 
-This analysis helps in understanding Flipkart’s mobile market landscape and provides valuable insights for businesses, analysts, and customers. It demonstrates how data analytics can support better decision-making in e-commerce platforms.
+Total Brands
 
----
+Total Mobiles
 
-## 📎 Future Scope
+Total Sales
 
-* Add time-based sales analysis
-* Include sentiment analysis on customer reviews
-* Compare Flipkart data with other e-commerce platforms
+Average Ratings
 
+Average Discounts
+
+Average Reviews
+
+📈 Key Insights
+📱 Brand Performance
+
+Redmi, Samsung, Xiaomi, Vivo, and Tecno are the top-performing brands based on ratings.
+
+Samsung and Xiaomi offer higher discounts, making them more competitive in pricing.
+
+⭐ Customer Engagement
+
+Redmi leads in the total number of ratings, showing strong customer trust.
+
+Mobiles from Vivo and Xiaomi frequently appear among the top-rated models.
+
+💸 Discount Analysis
+
+Higher discounts are mostly seen in mid-range smartphones.
+
+Discount strategy plays a major role in customer purchasing behavior.
+
+💰 Price Range Analysis
+
+Most highly rated mobiles fall in the ₹10K–₹20K price range.
+
+Fewer models are present in the ₹20K–₹40K segment.
+
+🛠️ Tools & Technologies Used
+
+Excel / Power BI – Data cleaning and dashboard creation
+
+DAX – Custom measures and KPIs
+
+Visualizations Used:
+
+KPI Cards
+
+Bar Charts
+
+Donut Charts
+
+Discount & Price Range Analysis
+
+🎯 Objective
+
+To analyze mobile phone sales data from Flipkart and build an interactive dashboard that helps understand customer preferences, brand performance, and pricing trends.
+
+📌 Conclusion
+
+This analysis shows that mid-range smartphones with competitive discounts and strong brand value receive higher ratings and reviews. The dashboard effectively demonstrates how data visualization can support data-driven business decisions in the e-commerce domain.
 
