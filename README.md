@@ -1,14 +1,13 @@
-# 📊 Flipkart Dataset Analysis
+#  Flipkart Dataset Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes mobile phone data from Flipkart to understand brand performance, customer behavior, pricing trends, discounts, and engagement metrics. The analysis is presented through an interactive dashboard that enables data-driven insights for business decision-making.
 
 ---
 
 ## 📊 Dashboard Preview
+<img width="1813" height="1032" alt="Screenshot 2026-01-06 193831" src="https://github.com/user-attachments/assets/bf76d986-79da-4d3a-aabb-59d9f094b8a9" />
 
-<!-- PASTE DASHBOARD SCREENSHOT DIRECTLY BELOW THIS LINE -->
-<!-- GitHub will auto-generate the image link -->
 
 ---
 
